@@ -21,7 +21,7 @@
     <Label text="Username:" />
     <TextField id="input_username" promptText="root" />
     <Label text="Password:" />
-    <PasswordField id="input_password" promptText="<enter password>" />
+    <PasswordField id="input_password" promptText="enter password" />
             <!--
             <Label text="CA certificate:" />
             <TextArea id="input_ca_cert" prefHeight="75.0" prefWidth="760.0" promptText="pem file content ... " />
